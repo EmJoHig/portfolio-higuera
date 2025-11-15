@@ -36,6 +36,9 @@ const nextConfig: NextConfig = {
   experimental: {
     optimizeCss: false,
   },
+   turbopack: {
+    root: './', // apunta al directorio correcto de tu proyecto
+  },
 };
 
 export default nextConfig;

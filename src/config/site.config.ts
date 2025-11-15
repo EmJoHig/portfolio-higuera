@@ -83,7 +83,7 @@ export const siteConfig: SiteConfig = {
   },
   links: {
     website: 'https://emanuel.higuera.dev',
-    github: 'https://github.com/EmJoHig',
+    github: 'https://github.com/EmJoHig/portfolio-higuera',
     linkedin: 'https://www.linkedin.com/feed/',
     tips: 'https://emanuel.higuera.dev',
     email: 'mailto:emanuel.higuera@hotmail.com',
@@ -97,6 +97,7 @@ export const siteConfig: SiteConfig = {
   navigation: [
     { label: 'Home', href: '/' },
     { label: 'About', href: '/about' },
+    { label: 'Skills', href: '/skills' },
     { label: 'Projects', href: '/projects' },
     { label: 'Contact', href: '/contact' }
   ],
