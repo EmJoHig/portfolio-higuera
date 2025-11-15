@@ -140,7 +140,7 @@ export function HeroSection() {
               <span className="block">{siteConfig.siteName}</span>
             </h1>
             <p className="mx-auto max-w-2xl sm:max-w-3xl text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-grey leading-relaxed px-4 sm:px-0">
-              Technology with purpose, design with vision.
+              Information Systems Analyst & Developer
             </p>
           </div>
 
