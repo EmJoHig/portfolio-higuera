@@ -21,7 +21,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'medium.com',
+        hostname: 'medium.com', 
       },
       {
         protocol: 'https',
