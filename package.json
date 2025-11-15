@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "postinstall": "npm rebuild @parcel/watcher"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
@@ -45,6 +46,7 @@
     "firebase": "^12.6.0",
     "framer-motion": "^12.23.24",
     "input-otp": "^1.4.2",
+    "lightningcss": "^1.30.2",
     "lucide-react": "^0.540.0",
     "motion": "^12.23.24",
     "next": "^16.0.1",
